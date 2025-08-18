@@ -148,7 +148,7 @@ export default function HeroSection() {
           Upload Your CAD File
         </h2>
         <p className="text-gray-600 max-w-lg mb-5">
-          we'll take care of machining, finishing and shipping -- accurate parts delivered fast, no stress
+          we will take care of machining, finishing and shipping -- accurate parts delivered fast, no stress
         </p>
 
         <label className="cursor-pointer">
@@ -157,7 +157,7 @@ export default function HeroSection() {
             Upload Your Design
           </span>
         </label>
-        
+
       </div>
     </section>
   );

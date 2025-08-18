@@ -75,7 +75,7 @@ export default function ProductsSection() {
     if (inView && index + 3 < allProducts.length) {
       setIndex((prev) => prev + 3);
     }
-  }, [inView]);
+  }, [index]);
 
   const visibleProducts = allProducts.slice(index, index + 3);
 
