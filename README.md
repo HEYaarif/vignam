@@ -41,7 +41,7 @@ Clone the repo and install dependencies using **pnpm**:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/vignam.git
+git clone https://github.com/HEYaarif/vignam.git
 
 # Navigate into the project folder
 cd vignam
